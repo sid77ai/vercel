@@ -1,5 +1,11 @@
 # vercel
 
+## 53.1.1
+
+### Patch Changes
+
+- bab5a60: Handle stale Claude Code Vercel plugin registry entries during plugin migration.
+
 ## 53.1.0
 
 ### Minor Changes
